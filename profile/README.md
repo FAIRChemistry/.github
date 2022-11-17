@@ -1,6 +1,6 @@
 # Welcome to the FAIR Chemistry GitHub!
 
-This organization is home to various useful tools, libraries, and data models aimed at providing means for FAIR and sustainable research in chemistry and beyond.
+This organization is home to various useful tools, libraries, and data models aimed at providing means for FAIR and sustainable research in chemistry.
 
 ## ⚡️ Quick Start Guide
 
