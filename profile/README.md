@@ -6,7 +6,7 @@ This organization is home to various useful tools, libraries, and data models ai
 
 ### Unsure where to begin?
 
-Have a look at our [pyAnIML](https://github.com/FAIRChemistry/pyAnIML) library for working with the powerful Analytical Information Markup Language (AnIML) standard! Working with thermodynamic rather than analytical data? Visit our [pyThermoML](https://github.com/FAIRChemistry/pyThermoML) library instead. Or maybe you are interested in FAIR tools and workflows for small-angle scattering (SAS) experiments? You can find these in our [SAS-Tools](https://github.com/FAIRChemistry/SAS_toolbox) repository.  
+Have a look at our [pyAnIML](https://github.com/FAIRChemistry/pyAnIML) library for working with the powerful Analytical Information Markup Language (AnIML) standard! Working with thermodynamic rather than analytical data? Visit our [pyThermoML](https://github.com/FAIRChemistry/pyThermoML) library instead. Or maybe you are interested in FAIR tools and workflows for small-angle scattering (SAS) experiments? You can find these in our [SAS-tools](https://github.com/FAIRChemistry/SAS-tools) repository.  
 
 ### Nothing of interest for you so far?
 
