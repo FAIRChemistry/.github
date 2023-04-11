@@ -31,4 +31,4 @@ The following **data models** have been developed in and around the FAIR Chemist
 
 The following **workflows** have been developed in and around the FAIR Chemistry organization:  
 
-*coming soon*
+- [SAS-workflows](https://github.com/FAIRChemistry/SAS-workflows)
