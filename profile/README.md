@@ -1,6 +1,7 @@
 # Welcome to the FAIR Chemistry GitHub!
 
 This organization is home to various useful tools, libraries, and data models aimed at providing means for FAIR and sustainable research in chemistry.
+All tools utilize the [software-driven Research Data Management](https://github.com/JR-1991/software-driven-rdm) framework to define application-specific data schemes.
 
 ## ⚡️ Quick Start Guide
 
