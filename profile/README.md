@@ -1,35 +1,31 @@
 # Welcome to the FAIR Chemistry GitHub!
 
-This organization is home to various useful tools, libraries, and data models aimed at providing means for FAIR and sustainable research in chemistry.
-All tools utilize the [software-driven Research Data Management](https://github.com/JR-1991/software-driven-rdm) framework to define application-specific data schemes.
+The purpose of FAIR Chemistry is to provide software tools that facilitate the streamlined analysis of (catalytic) chemical sciences and yield structured data.
 
-## ⚡️ Quick Start Guide
+This organization hosts a variety of tools and repositories aimed at advancing FAIR and sustainable research in chemistry. Whether you're analyzing thermodynamic data, working with the Analytical Information Markup Language (AnIML) for chemical analytics, or managing small-angle scattering (SAS) experiments, you'll find a solution here.
 
-### Unsure where to begin?
+## Data Modeling Tool: md-models
 
-Have a look at our [pyAnIML](https://github.com/FAIRChemistry/pyAnIML) library for working with the powerful Analytical Information Markup Language (AnIML) standard! Working with thermodynamic rather than analytical data? Visit our [pyThermoML](https://github.com/FAIRChemistry/pyThermoML) library instead. Or maybe you are interested in FAIR tools and workflows for small-angle scattering (SAS) experiments? You can find these in our [SAS-tools](https://github.com/FAIRChemistry/SAS-tools) repository.  
+[md-models](https://github.com/FAIRChemistry/md-models) is a tool that leverages markdown-based schema definitions to automatically generate technical schemas and programming language implementations. It makes complex data modeling more intuitive and accessible, streamlines research data management, and upholds professional standards.
 
-### Nothing of interest for you so far?
-
-There is much more to be found, so please take a look around. Still not satisfied? Consider contributing to the ever expanding FAIR Chemistry GitHub!
-
-## 🛠️ List of Tools
-
-The following **tools** have been developed in and around the FAIR Chemistry organization:
-- [pyThermoML](https://github.com/FAIRChemistry/pyThermoML)
-- [mixturemm](https://github.com/FAIRChemistry/mixturemm)
-- [pyAnIML](https://github.com/FAIRChemistry/pyAnIML)
-- [SAS-tools](https://github.com/FAIRChemistry/SAS-tools)
-
-## 🔗 List of Data Models:
-
-The following **data models** have been developed in and around the FAIR Chemistry organization:  
-
-*coming soon*
+## Data Processing / Analysis Tools
 
 
-## 🛤 List of Workflows
+- **[SAS-tools](https://github.com/FAIRChemistry/SAS-tools)**  
+  A suite of utilities for handling data from small-angle scattering (SAS) experiments.
 
-The following **workflows** have been developed in and around the FAIR Chemistry organization:  
+- **[chromatopy](https://github.com/FAIRChemistry/chromatopy)**  
+  Streamlines processing, metadata enrichment, and conversion of chromatographic data into EnzymeML format.
 
-- [SAS-workflows](https://github.com/FAIRChemistry/SAS-workflows)
+- **[FAIRVibSpec](https://github.com/FAIRChemistry/FAIRVibSpec)**  
+  A toolkit for the analysis of pyridine-adsorbed FT-IR spectra.
+
+- **[CaliPytion](https://github.com/FAIRChemistry/CaliPytion)**  
+  A tool for managing and analyzing calibration measurement data for concentration calculations.
+
+- **[MTPHandler](https://github.com/FAIRChemistry/MTPHandler)**  
+  Processes, enriches, and converts microtiter plate data into standardized EnzymeML time-course data.
+
+## Contributing
+
+Contributions are welcome and encouraged! If you’d like to help improve these tools, please submit a pull request with your enhancements or bug fixes. Alternatively, feel free to open an issue to report problems, propose features, or initiate discussions about improvements.
