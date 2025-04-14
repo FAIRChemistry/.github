@@ -1,14 +1,13 @@
 # Welcome to the FAIR Chemistry GitHub!
 
 The purpose of FAIR Chemistry is to provide software tools that facilitate the streamlined analysis of (catalytic) chemical sciences and yield structured data.
+This organization hosts a variety of tools and repositories aimed at advancing FAIR and sustainable research in chemistry.
 
-This organization hosts a variety of tools and repositories aimed at advancing FAIR and sustainable research in chemistry. Whether you're analyzing thermodynamic data, working with the Analytical Information Markup Language (AnIML) for chemical analytics, or managing small-angle scattering (SAS) experiments, you'll find a solution here.
-
-## Data Modeling Tool: md-models
+## 📝 Data Modeling Tool: md-models
 
 [md-models](https://github.com/FAIRChemistry/md-models) is a tool that leverages markdown-based schema definitions to automatically generate technical schemas and programming language implementations. It makes complex data modeling more intuitive and accessible, streamlines research data management, and upholds professional standards.
 
-## Data Processing / Analysis Tools
+## ⚙️ Data Processing / Analysis Tools
 
 
 - **[SAS-tools](https://github.com/FAIRChemistry/SAS-tools)**  
@@ -26,6 +25,6 @@ This organization hosts a variety of tools and repositories aimed at advancing F
 - **[MTPHandler](https://github.com/FAIRChemistry/MTPHandler)**  
   Processes, enriches, and converts microtiter plate data into standardized EnzymeML time-course data.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome and encouraged! If you’d like to help improve these tools, please submit a pull request with your enhancements or bug fixes. Alternatively, feel free to open an issue to report problems, propose features, or initiate discussions about improvements.
