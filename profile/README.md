@@ -13,7 +13,7 @@ This organization hosts a variety of tools and repositories aimed at advancing F
 - **[SAS-tools](https://github.com/FAIRChemistry/SAS-tools)**  
   A suite of utilities for handling data from small-angle scattering (SAS) experiments.
 
-- **[chromatopy](https://github.com/FAIRChemistry/chromatopy)**  
+- **[chromhandler](https://github.com/FAIRChemistry/chromhandler)**  
   Streamlines processing, metadata enrichment, and conversion of chromatographic data into EnzymeML format.
 
 - **[FAIRVibSpec](https://github.com/FAIRChemistry/FAIRVibSpec)**  
